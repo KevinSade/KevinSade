@@ -12,10 +12,11 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/KevinSade/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/KevinSade/azure-network-protocols)
 
-<h2>🔍Reverse Engineering/Modding:</h2>
+<h2>🔍 Reverse Engineering/Modding:</h2>
 
 - <b>Stolen Realm</b>
-  - [Debug Menu](https://github.com/KevinSade/Stolen-Realm-Playground)
+  - [Debug Menu](https://github.com/KevinSade/Stolen-Realm-Mods/blob/main/DebugEnabler/DebugEnabler.md)
+  - [Shop Refresher](https://github.com/KevinSade/Stolen-Realm-Playground)
   - [Level Cheat](https://github.com/KevinSade/Stolen-Realm-Playground)
 - <b>Sea of Thieves</b>
   - [Kosmos' .PAK emporium](https://github.com/KevinSade/SoT-Paks)
@@ -31,7 +32,7 @@
    <b>Unreal Engine</b>
   - [Auto Offset Updater](https://github.com/KevinSade/DBDHunter-Tools)
 
-</b>🤳Connect with me:</b>
+</b>🤳 Connect with me:</b>
 
 [<img align="left" alt="Kevin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Kevin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
