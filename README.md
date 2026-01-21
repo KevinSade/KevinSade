@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kevin/Rimmy, an <a href="https://linkedin.com/in/KevinSade">IT Student</a> and hobbyist reverse engineer☺</h1>
+<h1>Hi, I'm Kevin/Rimmy, an <a href="https://linkedin.com/in/KevinSade">IT Student</a> & hobbyist reverse engineer☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
