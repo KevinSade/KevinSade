@@ -1,5 +1,7 @@
 <h1>Hi, I'm Kevin/Rimmy, an <a href="https://linkedin.com/in/KevinSade">IT Student</a> & hobbyist reverse engineer☺</h1>
 
+<p align="center"><em>✨ Turning your vision into my passion ✨</em></p>
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
