@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kevin/Rimmy, an <a href="https://linkedin.com/in/KevinSade">IT Student and hobbyist reverse engineer.</a>☺</h1>
+<h1>Hi, I'm Kevin/Rimmy, an <a href="https://linkedin.com/in/KevinSade">IT Student</a> and hobbyist reverse engineer☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -17,7 +17,7 @@
   - [Level Cheat](https://github.com/KevinSade/Stolen-Realm-Playground)
 - <b>Sea of Thieves</b>
   - [Kosmos' .PAK emporium](https://github.com/KevinSade/SoT-Paks)
-  - [W.I.P RapidSails [DMA]](https://github.com/KevinSade/RapidSails-DMA)
+  - [RapidSails [DMA]](https://github.com/KevinSade/RapidSails-DMA)
 - <b>Dead by Dalight</b>
   - [DBD Zawg [DMA]](https://github.com/KevinSade/DBD-Zawg-DMA)
   - [DBD Zawg [Cheatless ESP]](https://github.com/KevinSade/DBD-Zawg)
