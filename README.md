@@ -12,7 +12,7 @@
 
 <h2>🔍Reverse Engineering/Modding:</h2>
 
-- <b>Stolen Realm Mods</b>
+- <b>Stolen Realm</b>
   - [Debug Menu](https://github.com/KevinSade/Stolen-Realm-Playground)
   - [Level Cheat](https://github.com/KevinSade/Stolen-Realm-Playground)
 - <b>Sea of Thieves</b>
