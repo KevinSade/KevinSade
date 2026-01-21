@@ -10,22 +10,18 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/KevinSade/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/KevinSade/azure-network-protocols)
 
-</h2>🔍Reverse Engineering/Modding:</h2>
+<h2>🔍Reverse Engineering/Modding:</h2>
 
 - <b>Stolen Realm Mods</b>
   - [Debug Menu](https://github.com/KevinSade/Stolen-Realm-Playground)
   - [Level Cheat](https://github.com/KevinSade/Stolen-Realm-Playground)
-
 - <b>Sea of Thieves</b>
   - [Kosmos' .PAK emporium](https://github.com/KevinSade/SoT-Paks)
   - [W.I.P RapidSails [DMA]](https://github.com/KevinSade/RapidSails-DMA)
-
- 
 - <b>Dead by Dalight</b>
   - [DBD Zawg [DMA]](https://github.com/KevinSade/DBD-Zawg-DMA)
   - [DBD Zawg [Cheatless ESP]](https://github.com/KevinSade/DBD-Zawg)
- 
-- <b>For The King II</b>
+ - <b>For The King II</b>
    - [Simple Lore Store Unlocker](https://github.com/KevinSade/Lore-Store-Unlocker)
 
 </b>🤳Connect with me:</b>
