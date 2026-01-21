@@ -23,6 +23,11 @@
   - [DBD Zawg [Cheatless ESP]](https://github.com/KevinSade/DBD-Zawg)
  - <b>For The King II</b>
    - [Simple Lore Store Unlocker](https://github.com/KevinSade/Lore-Store-Unlocker)
+     
+  <h2>⚙️Tools & Utilities</h2>
+
+   <b>Unreal Engine</b>
+  - [Auto Offset Updater](https://github.com/KevinSade/DBDHunter-Tools)
 
 </b>🤳Connect with me:</b>
 
