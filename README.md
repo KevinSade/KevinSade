@@ -27,10 +27,24 @@
  - <b>For The King II</b>
    - [Simple Lore Store Unlocker](https://github.com/KevinSade/Lore-Store-Unlocker)
      
-  <h2>⚙️Tools & Utilities</h2>
+<h2>⚙️ Tools & Utilities:</h2>
 
-   <b>Unreal Engine</b>
-  - [Auto Offset Updater](https://github.com/KevinSade/DBDHunter-Tools)
+- <b>Unreal Engine</b>
+  - [Auto Outdated Offset Finder](https://github.com/KevinSade/DBDHunter-Tools)
+
+<h2>🎓 Education:</h2>
+
+  - <b>High School Diploma</b>
+    - Graduated from Miami Southridge Senior High
+
+  - <b>Certifications & Courses</b>
+    - Currently taking CourseCareers' I.T. Course
+   
+  - <b>Languages</b>
+    - English. Fluent in reading and writing
+    - Spanish. Fluent in reading and writing
+    - Strong interest in learning more languages
+  
 
 </b>🤳 Connect with me:</b>
 
